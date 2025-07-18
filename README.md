@@ -24,7 +24,6 @@ Make sure you have Python 3.7+ installed.
 
 2. Clone the Repository (or save the code)
 
-# If this were a Git repository
 git clone <your-repo-url>
 cd <your-repo-name>
 
